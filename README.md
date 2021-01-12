@@ -7,8 +7,6 @@ Simple kanban concept and side-project
     * Phases
         * CardId
     * Color?
-<br />
-<br />
 * Kanban cards
     * BoardId
     * Create date
@@ -21,8 +19,6 @@ Simple kanban concept and side-project
     * Owner
     * Members?
     * Phase
-<br />
-<br />
 * Users
     * Name
     * Portrait image
