@@ -1,10 +1,36 @@
 # kanban
 Simple kanban concept and side-project
+## Structure
+* Kanban board:
+    * Board name
+    * Department
+    * Phases
+        * CardId
+    * Color?
+<br />
+<br />
+* Kanban cards
+    * BoardId
+    * Create date
+    * Due date
+    * Priority
+    * Topic
+    * Description
+    * Files
+    * Comments
+    * Owner
+    * Members?
+    * Phase
+<br />
+<br />
+* Users
+    * Name
+    * Portrait image
+    * Email
+    * Departments
 
 
-#### Design inspo
-[inspo](https://coderthemes.com/hyper/saas/apps-kanban.html)
-
-#### Structure
+## Research
+[Design](https://coderthemes.com/hyper/saas/apps-kanban.html) <br />
 [medium.com](https://medium.com/paymo/12-kanban-board-examples-for-beginners-d56cee5df832) <br />
 [kanbanize](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban)
